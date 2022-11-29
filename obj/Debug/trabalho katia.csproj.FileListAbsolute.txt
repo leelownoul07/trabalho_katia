@@ -1,0 +1,70 @@
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\trabalho katia.exe.config
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\trabalho katia.exe
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\trabalho katia.pdb
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\obj\Debug\trabalho katia.csproj.AssemblyReference.cache
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\obj\Debug\trabalho katia.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\obj\Debug\trabalho_katia.Form1.resources
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\obj\Debug\trabalho_katia.Properties.Resources.resources
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\obj\Debug\trabalho katia.csproj.GenerateResource.cache
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\obj\Debug\trabalho katia.csproj.CoreCompileInputs.cache
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\obj\Debug\trabalho katia.exe
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\obj\Debug\trabalho katia.pdb
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\Google.Protobuf.dll
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\MySql.Data.dll
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\System.Buffers.dll
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\System.Memory.dll
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\ZstdNet.dll
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\Google.Protobuf.pdb
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\Google.Protobuf.xml
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\MySql.Data.xml
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\System.Buffers.xml
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\System.Memory.xml
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\obj\Debug\trabalho katia.csproj.CopyComplete
+C:\Users\jaimi\source\repos\trabalho katia\trabalho katia\obj\Debug\trabalho_katia.txtbTipo.resources
+E:\trabalho katia\trabalho katia\bin\Debug\trabalho katia.exe.config
+E:\trabalho katia\trabalho katia\bin\Debug\trabalho katia.exe
+E:\trabalho katia\trabalho katia\bin\Debug\trabalho katia.pdb
+E:\trabalho katia\trabalho katia\bin\Debug\BouncyCastle.Crypto.dll
+E:\trabalho katia\trabalho katia\bin\Debug\Google.Protobuf.dll
+E:\trabalho katia\trabalho katia\bin\Debug\K4os.Compression.LZ4.dll
+E:\trabalho katia\trabalho katia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\trabalho katia\trabalho katia\bin\Debug\K4os.Hash.xxHash.dll
+E:\trabalho katia\trabalho katia\bin\Debug\MySql.Data.dll
+E:\trabalho katia\trabalho katia\bin\Debug\System.Buffers.dll
+E:\trabalho katia\trabalho katia\bin\Debug\System.Memory.dll
+E:\trabalho katia\trabalho katia\bin\Debug\System.Numerics.Vectors.dll
+E:\trabalho katia\trabalho katia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\trabalho katia\trabalho katia\bin\Debug\ZstdNet.dll
+E:\trabalho katia\trabalho katia\bin\Debug\BouncyCastle.Crypto.xml
+E:\trabalho katia\trabalho katia\bin\Debug\Google.Protobuf.pdb
+E:\trabalho katia\trabalho katia\bin\Debug\Google.Protobuf.xml
+E:\trabalho katia\trabalho katia\bin\Debug\K4os.Compression.LZ4.xml
+E:\trabalho katia\trabalho katia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\trabalho katia\trabalho katia\bin\Debug\K4os.Hash.xxHash.xml
+E:\trabalho katia\trabalho katia\bin\Debug\MySql.Data.xml
+E:\trabalho katia\trabalho katia\bin\Debug\System.Buffers.xml
+E:\trabalho katia\trabalho katia\bin\Debug\System.Memory.xml
+E:\trabalho katia\trabalho katia\bin\Debug\System.Numerics.Vectors.xml
+E:\trabalho katia\trabalho katia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\trabalho katia\trabalho katia\obj\Debug\trabalho katia.csproj.AssemblyReference.cache
+E:\trabalho katia\trabalho katia\obj\Debug\trabalho katia.csproj.SuggestedBindingRedirects.cache
+E:\trabalho katia\trabalho katia\obj\Debug\trabalho_katia.Form1.resources
+E:\trabalho katia\trabalho katia\obj\Debug\trabalho_katia.txtbTipo.resources
+E:\trabalho katia\trabalho katia\obj\Debug\trabalho_katia.Properties.Resources.resources
+E:\trabalho katia\trabalho katia\obj\Debug\trabalho katia.csproj.GenerateResource.cache
+E:\trabalho katia\trabalho katia\obj\Debug\trabalho katia.csproj.CoreCompileInputs.cache
+E:\trabalho katia\trabalho katia\obj\Debug\trabalho katia.csproj.CopyComplete
+E:\trabalho katia\trabalho katia\obj\Debug\trabalho katia.exe
+E:\trabalho katia\trabalho katia\obj\Debug\trabalho katia.pdb
